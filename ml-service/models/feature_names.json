@@ -1,0 +1,12 @@
+[
+  "weather_severity",
+  "geopolitical_risk",
+  "route_complexity",
+  "carrier_reliability",
+  "port_congestion",
+  "seasonal_demand",
+  "lead_time_variance",
+  "supplier_risk_score",
+  "customs_complexity",
+  "historical_disruptions"
+]

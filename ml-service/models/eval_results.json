@@ -1,0 +1,19 @@
+{
+  "accuracy": 0.727,
+  "precision": 0.8035714285714286,
+  "recall": 0.734094616639478,
+  "f1_score": 0.7672634271099744,
+  "roc_auc": 0.8146827353929292,
+  "feature_importance": {
+    "weather_severity": 0.5136364698410034,
+    "geopolitical_risk": 0.09117334336042404,
+    "lead_time_variance": 0.052306488156318665,
+    "carrier_reliability": 0.0522560253739357,
+    "supplier_risk_score": 0.05081462487578392,
+    "port_congestion": 0.050805334001779556,
+    "historical_disruptions": 0.04818155989050865,
+    "route_complexity": 0.048131365329027176,
+    "seasonal_demand": 0.04659053310751915,
+    "customs_complexity": 0.04610435292124748
+  }
+}

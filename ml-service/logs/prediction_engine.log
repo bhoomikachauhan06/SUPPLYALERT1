@@ -1,0 +1,10 @@
+2026-04-11 08:04:52 | INFO     | 🌐 Starting server on 0.0.0.0:8000
+2026-04-11 08:04:52 | INFO     | 📚 API docs: http://localhost:8000/docs
+2026-04-11 08:04:57 | INFO     | 🚀 Starting DrishtiFlow Prediction Service...
+2026-04-11 08:04:57 | INFO     | 🚀 Starting DrishtiFlow Prediction Service...
+2026-04-11 08:04:57 | INFO     | Loaded pre-fitted feature scaler
+2026-04-11 08:04:57 | INFO     | Loaded pre-fitted feature scaler
+2026-04-11 08:04:58 | INFO     | ✅ XGBoost model loaded: C:\Users\Personal\DrishtiFlow\ml-service\models\risk_model.json
+2026-04-11 08:04:58 | INFO     | ✅ XGBoost model loaded: C:\Users\Personal\DrishtiFlow\ml-service\models\risk_model.json
+2026-04-11 08:04:58 | INFO     | ✅ Production model loaded
+2026-04-11 08:04:58 | INFO     | ✅ Production model loaded
